@@ -1,4 +1,4 @@
-Hey ✋ i am 19 years old and did start to work with github just in case save my projects📖.
+Hey ✋ i did start to work with github in case to save my projects📖.
 Hope some projects will interest you and maybe help you understand some things.
 My code is sometimes big mess 🤢 so i will try to comment evrything to make it easier understand.
 I will work mostly with python , html , bootstrap / tailwind , jinja2 , sqlite3 database ,  sometimes there might be some java script 
