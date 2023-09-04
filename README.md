@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Student of Slovak technical university, self-taught programmer.</h3>
-<img align="right" src="https://lottie.host/?file=56af3f3e-a7ec-40b0-9ed6-b787c9ce11e0/xQ6CCzFkQ6.json" width="400px">
 
-<p align="left"> <img src="https://bilginc.com/editorFiles/d92318fe.gif" alt="ilustrative image" /> </p>
+<p align="right"> <img src="https://bilginc.com/editorFiles/d92318fe.gif" alt="ilustrative image" /> </p>
 
 - 🔭 I’m currently working on **Mern tech stack app, wp blog**
 
