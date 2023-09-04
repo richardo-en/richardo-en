@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">Student of Slovak technical university, self-taught programmer.</h3>
+<img align="right" src="https://lottie.host/?file=56af3f3e-a7ec-40b0-9ed6-b787c9ce11e0/xQ6CCzFkQ6.json" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardo-en&label=Profile%20views&color=0e75b6&style=flat" alt="richardo-en" /> </p>
 
